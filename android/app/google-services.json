@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "762772338355",
+    "project_id": "twitart-meetucup1998",
+    "storage_bucket": "twitart-meetucup1998.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:762772338355:android:aaf489d52f89d1310de2c6",
+        "android_client_info": {
+          "package_name": "com.example.twitart_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "762772338355-ferdtmqoohcletp7fo5ndt7p8l48snr2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.twitart_app",
+            "certificate_hash": "8be83125d73efd39f46b2405a3474cf545d5fcfd"
+          }
+        },
+        {
+          "client_id": "762772338355-risshiue3ojuk6e0i190ahqo8g0m1097.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQaLe_qME3tYBO28nJrlRQyba6dYR7c0s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "762772338355-risshiue3ojuk6e0i190ahqo8g0m1097.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "762772338355-38iecag6klvg11k5c0073bv6que0qrmc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.twitartApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

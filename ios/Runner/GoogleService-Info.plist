@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>762772338355-38iecag6klvg11k5c0073bv6que0qrmc.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.762772338355-38iecag6klvg11k5c0073bv6que0qrmc</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAVFqSEkYyfqDPpsPx4frItOyujfyV6xrY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>762772338355</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.twitartApp</string>
+	<key>PROJECT_ID</key>
+	<string>twitart-meetucup1998</string>
+	<key>STORAGE_BUCKET</key>
+	<string>twitart-meetucup1998.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:762772338355:ios:661b6163a93edae50de2c6</string>
+</dict>
+</plist>
