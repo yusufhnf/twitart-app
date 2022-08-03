@@ -117,6 +117,19 @@ flutter packages pub run build_runner build --delete-conflicting-outputs
 ### Firebase Integration
 For firebase integration, developer using **Flutter direct integration**. So developer can integrating Firebase to Flutter project with automatically in all platform using flutterfire-cli. For installation and integration, you can read this [documentation](https://firebase.google.com/docs/flutter/setup?platform=android "documentation").
 
+**1. Once your Firebase instance is created, you'll need to enable Google authentication.**
+- Go to the Firebase Console for your new instance.
+- Click "Authentication" in the left-hand menu
+- Click the "sign-in method" tab
+- Click "Google" and enable it
+
+**2. Enable the Firebase Database**
+- Go to the Firebase Console
+- Click "Database" in the left-hand menu
+- Click the "Create Database" button
+- It will prompt you to set up, rules, for the sake of simplicity, let us choose test mode, for now.
+- On the next screen select any of the locations you prefer.
+
 ## About me
 With more than 4 years of experience in mobile application development, I hope to make unique and different breakthroughs in solving problems through technology. Through mobile applications, I hope to become a world-class developer that is useful for life.  
 
