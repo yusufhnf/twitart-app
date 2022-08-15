@@ -50,21 +50,21 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyAQaLe_qME3tYBO28nJrlRQyba6dYR7c0s',
-    appId: '1:762772338355:android:aaf489d52f89d1310de2c6',
-    messagingSenderId: '762772338355',
-    projectId: 'twitart-meetucup1998',
-    storageBucket: 'twitart-meetucup1998.appspot.com',
+    apiKey: 'Generate from FlutterFire-CLI',
+    appId: 'Generate from FlutterFire-CLI',
+    messagingSenderId: 'Generate from FlutterFire-CLI',
+    projectId: 'Generate from FlutterFire-CLI',
+    storageBucket: 'Generate from FlutterFire-CLI',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyAVFqSEkYyfqDPpsPx4frItOyujfyV6xrY',
-    appId: '1:762772338355:ios:661b6163a93edae50de2c6',
-    messagingSenderId: '762772338355',
-    projectId: 'twitart-meetucup1998',
-    storageBucket: 'twitart-meetucup1998.appspot.com',
-    androidClientId: '762772338355-ferdtmqoohcletp7fo5ndt7p8l48snr2.apps.googleusercontent.com',
-    iosClientId: '762772338355-38iecag6klvg11k5c0073bv6que0qrmc.apps.googleusercontent.com',
-    iosBundleId: 'com.example.twitartApp',
+    apiKey: 'Generate from FlutterFire-CLI',
+    appId: 'Generate from FlutterFire-CLI',
+    messagingSenderId: 'Generate from FlutterFire-CLI',
+    projectId: 'Generate from FlutterFire-CLI',
+    storageBucket: 'Generate from FlutterFire-CLI',
+    androidClientId: 'Generate from FlutterFire-CLI',
+    iosClientId: 'Generate from FlutterFire-CLI',
+    iosBundleId: 'Generate from FlutterFire-CLI',
   );
 }
